@@ -9,5 +9,3 @@ const calculator = {
 };
 
 module.exports = calculator;
-
-console.log(typeOf(calculator))
